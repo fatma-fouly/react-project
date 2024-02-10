@@ -1,0 +1,9 @@
+.background{
+    background-color: #1abc9c!important;
+}
+.line{
+    margin: 5px  10px 0;
+    width: 80px;
+    height: 4px;
+    background-color: white;
+}
